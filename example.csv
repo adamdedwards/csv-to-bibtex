@@ -1,2 +1,5 @@
-﻿title,document-type,author,year,journal,volume,number,pages
+title,document-type,author,year,journal,volume,number,pages
 testA,article,authorA,1995,,,,
+testA,article,authorB,1995,,,,
+testA,article,authorC,1995,,,,
+testA,article,"authorA,authorC",1995,,,,
